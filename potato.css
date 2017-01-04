@@ -19,7 +19,7 @@ h1 {
 
 /* Insert CSS for body below this line*/
 #body { 
-  top: 28px; left: 68px; 
+  top: 27px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
 
@@ -27,7 +27,10 @@ h1 {
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image{
+  top:100px;
+  left:60px;
+}
 
 
 
@@ -38,29 +41,34 @@ h1 {
 }
 
 
+
 /* Insert CSS for mouth below this line*/
 
 
 
 
 /* Insert CSS for nose below this line*/
-
+#nose_image{
+  top:130px;
+  left:130px; 
+}
 
 
 
 /* Insert CSS for eyebrows below this line*/
-
-
+#eyebrows_image { top: 102px; left: 109px; z-index: 5;}
 
 
 /* Insert CSS for glasses below this line*/
-
-
+#glasses_image {
+top:100px;
+right:100px;
+}
 
 
 /* Insert CSS for hat below this line*/
-
-
+#hat_image {
+  top:12px; left: 102px;
 
 
 /* Insert CSS for arms below this line*/
@@ -70,11 +78,18 @@ h1 {
 
 /* Insert CSS for moustache below this line*/
 
-
+#moustache_image{
+  top:129px;
+  left:90px;
+}
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top:294px;
+  left:46px;
+  
+}
 
 
 
