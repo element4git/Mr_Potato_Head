@@ -19,7 +19,7 @@ h1 {
 
 /* Insert CSS for body below this line*/
 #body { 
-  top: 28px; left: 68px; 
+  top: 27px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
 
@@ -35,6 +35,7 @@ h1 {
 
 
 /* Insert CSS for eyes below this line*/
+
 
 
 
@@ -60,8 +61,8 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
-
-
+#hat_image {
+  top:12px; left: 102px;
 
 
 /* Insert CSS for arms below this line*/
@@ -71,11 +72,18 @@ h1 {
 
 /* Insert CSS for moustache below this line*/
 
-
+#moustache_image{
+  top:129px;
+  left:90px;
+}
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top:294px;
+  left:46px;
+  
+}
 
 
 
